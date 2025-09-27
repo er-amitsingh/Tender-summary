@@ -94,6 +94,8 @@ if __name__ == "__main__":
     with open("tender_summary.json", "w") as f:
         json.dump(data, f, indent=4)
     print("✅ JSON summary saved to 'tender_summary.json'")
+    # this is valid for e tender
     
     
+
    
